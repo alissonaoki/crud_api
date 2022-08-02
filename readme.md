@@ -1,6 +1,6 @@
-## PDI GAZIN | API para uma página compactada para registrar usuários e enviar um bônus por e-mail (escrito em Node.js e TypeScript em uma arquitetura limpa).
+# PDI GAZIN | API para uma página compactada para registrar usuários e enviar um bônus por e-mail (escrito em Node.js e TypeScript em uma arquitetura limpa).
 
-# Conveitos Usados no desenvolvimento da API 
+# Conceitos Usados no desenvolvimento da API 
 - [*Clean Architecture*](https://fullcycle.com.br/o-que-e-clean-architecture/)
 - [*Domain-Driven Design*](https://fullcycle.com.br/domain-driven-design/)
 - [*Test-Driven Development(TDD)*](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)
