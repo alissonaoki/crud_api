@@ -1,4 +1,4 @@
-# PDI GAZIN | API para uma página compactada para registrar usuários e enviar um bônus por e-mail (escrito em Node.js e TypeScript em uma arquitetura limpa).
+## PDI GAZIN | API para uma página compactada para registrar usuários e enviar um bônus por e-mail.
 
 # Conceitos Usados no desenvolvimento da API 
 - [*Clean Architecture*](https://fullcycle.com.br/o-que-e-clean-architecture/)
